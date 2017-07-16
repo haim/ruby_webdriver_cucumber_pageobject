@@ -37,7 +37,7 @@ Framework is created using pageobject model below is the folder structure
 Example:
  
  Running tests on Chrome in Dev environment:  cucumber BROWSER=chrome URL=https://dev.farmdrop.com/
- Running tests on firefox in UAT environment: cucumber BROWSER=firefox URL=https://next.farmdrop.com/
+ Running tests on firefox in UAT environment: cucumber BROWSER=firefox URL=https://uat.farmdrop.com/
 
 
 ## Reporting
